@@ -12,7 +12,7 @@ To improve my skill as a programmer i primarly focus on OOP, OO Design, System d
 | 03      | 18-Aug-2020   | completed js--testing-fundameltals from testingjavascript kent c dods tutotiral <br> build basic version of jest  |
 | 04      | 19-Aug-2020   | no study|
 | 05      | 20-Aug-2020   | get basic idea of MOCK testing and get familier with jest mock testing  |
-| 06      | 21-Aug-2020   |    $1 |
+| 06      | 21-Aug-2020   | understanding Mock testing mode deeply, read some example  |
 | 07      | 22-Aug-2020   |    $1 |
 | 08      | 23-Aug-2020   |    $1 |
 | 09      | 24-Aug-2020   |    $1 |
