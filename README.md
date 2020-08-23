@@ -13,7 +13,7 @@ To improve my skill as a programmer i primarly focus on OOP, OO Design, System d
 | 04      | 19-Aug-2020   | no study|
 | 05      | 20-Aug-2020   | get basic idea of MOCK testing and get familier with jest mock testing  |
 | 06      | 21-Aug-2020   | understanding Mock testing mode deeply, read some example  |
-| 07      | 22-Aug-2020   |    $1 |
+| 07      | 22-Aug-2020   | understand and playing with Jest.fn() Mock function |
 | 08      | 23-Aug-2020   |    $1 |
 | 09      | 24-Aug-2020   |    $1 |
 | 10      | 25-Aug-2020   |    $1 |
