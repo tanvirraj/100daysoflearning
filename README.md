@@ -10,10 +10,10 @@ To improve my skill as a programmer i primarly focus on OOP, OO Design, System d
 | 01      | 16-Aug-2020   |  - different kindd of testing, unit test, integration test and end to end test <br> *complete first blog post from [wanago.io](http://wanago.io) about jest |
 | 02      | 17-Aug-2020   | complete 2nd part from wango.io .  test basic react hello world component <br> ***what we should test*** <br>we should test our requirements. when our requirements changes our test also changes. <br>the way we should write code that anybody can code after one hour without breaking the other parts of code  |
 | 03      | 18-Aug-2020   | completed js--testing-fundameltals from testingjavascript kent c dods tutotiral <br> build basic version of jest  |
-| 04      | 19-Aug-2020   | no study|
+| 04      | 19-Aug-2020   | ❌ |
 | 05      | 20-Aug-2020   | get basic idea of MOCK testing and get familier with jest mock testing  |
 | 06      | 21-Aug-2020   | understanding Mock testing mode deeply, read some example  |
-| 07      | 22-Aug-2020   | understand and playing with Jest.fn() Mock function |
-| 08      | 23-Aug-2020   |    $1 |
+| 07      | 22-Aug-2020   | ❌ |
+| 08      | 23-Aug-2020   |    understand and playing with Jest.fn() Mock function |
 | 09      | 24-Aug-2020   |    $1 |
 | 10      | 25-Aug-2020   |    $1 |
