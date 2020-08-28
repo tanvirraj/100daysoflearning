@@ -15,5 +15,8 @@ To improve my skill as a programmer i primarly focus on OOP, OO Design, System d
 | 06      | 21-Aug-2020   | understanding Mock testing mode deeply, read some example  |
 | 07      | 22-Aug-2020   | ❌ |
 | 08      | 23-Aug-2020   |    understand and playing with Jest.fn() Mock function |
-| 09      | 24-Aug-2020   |    $1 |
-| 10      | 25-Aug-2020   |    $1 |
+| 09      | 24-Aug-2020   |    playing with flexbox  |
+| 10      | 25-Aug-2020   |    ❌ |
+| 11      | 26-Aug-2020   |     ❌ |
+| 12      | 27-Aug-2020   |    playing with Flexbox |
+| 13      | 28-Aug-2020   |    playing with Flexbox  |
